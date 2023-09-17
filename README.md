@@ -5,7 +5,8 @@ Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB. <br
 </p>
 
 <p align="center">
-  <a href="https://saraguanais.github.io/JogoTerror/" target="_blank" >Acesse o Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://saraguanais.github.io/Desafio-Travel/" target="_blank" >Acesse o Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank" >Acesse o Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
