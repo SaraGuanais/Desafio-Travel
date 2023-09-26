@@ -1,4 +1,4 @@
-<h1 align="center"> Landing page jogo de terror </h1>
+<h1 align="center"> Landing page Your Travel </h1>
 
 <p align="center">
 Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
